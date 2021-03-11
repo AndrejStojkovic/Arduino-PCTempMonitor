@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://example.com/">
+  <a href="https://github.com/AndrejStojkovic/Arduino-TempControl">
     <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
   </a>
 
@@ -8,9 +8,7 @@
   <p align="center">
     Short description
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+    <a href="https://github.com/AndrejStojkovic/Arduino-TempControl/issues">Report bug or request a feature</a>
   </p>
 </p>
 
@@ -78,6 +76,6 @@ Some Text
 
 ## Copyright and license
 
-Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
+Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://github.com/AndrejStojkovic/Arduino-TempControl/blob/master/LICENSE).
 
 Enjoy :metal:
