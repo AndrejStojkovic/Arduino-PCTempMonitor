@@ -53,11 +53,11 @@ Arduino-PCTempMonitor/
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? Please first read the [issue guidelines](https://reponame/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new).
+Have a bug or a feature request? Go to [Issues](https://github.com/AndrejStojkovic/Arduino-PCTempMonitor/issues) and post there.
 
 ## Contributing
 
-To contribute, you can just make a Pull request or go to Issues and post there
+To contribute, you can just make a Pull Request or go to [Issues](https://github.com/AndrejStojkovic/Arduino-PCTempMonitor/issues) and post there.
 
 ## Creators
 
