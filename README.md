@@ -6,7 +6,7 @@
   <h3 align="center">Arduino PC Temperature Monitor</h3>
 
   <p align="center">
-    Short description
+    An Arduino project that I made in my free time to monitor my CPU and GPU temperature from my PC. 
     <br>
     <a href="https://github.com/AndrejStojkovic/Arduino-TempControl/issues">Report bug or request a feature</a>
   </p>
@@ -42,7 +42,7 @@ Probably working, idk :p
 Some text
 
 ```text
-Arduino-TempControl/
+Arduino-PCTempMonitor/
 └── folder2/
     ├── folder3/
     │   ├── file1
@@ -76,6 +76,6 @@ Some Text
 
 ## License
 
-Code released under the [MIT License](https://github.com/AndrejStojkovic/Arduino-TempControl/blob/master/LICENSE.md).
+Code released under the [MIT License](LICENSE.md).
 
 Enjoy :metal:
