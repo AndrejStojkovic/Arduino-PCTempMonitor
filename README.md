@@ -8,7 +8,7 @@
   <p align="center">
     An Arduino project that I made in my free time to monitor my CPU and GPU temperature from my PC. 
     <br>
-    <a href="https://github.com/AndrejStojkovic/Arduino-TempControl/issues">Report bug or request a feature</a>
+    <a href="https://github.com/AndrejStojkovic/Arduino-TempControl/issues">Report Bug or Request a Feature</a>
   </p>
 </p>
 
@@ -21,7 +21,6 @@
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Contributing](#contributing)
 - [Creators](#creators)
-- [Thanks](#thanks)
 - [License](#license)
 
 
@@ -58,19 +57,11 @@ Have a bug or a feature request? Please first read the [issue guidelines](https:
 
 ## Contributing
 
-Please read through our [contributing guidelines](https://reponame/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
-
-Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Main author](https://github.com/usernamemainauthor).
-
-Editor preferences are available in the [editor config](https://reponame/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
+To contribute, you can just make a Pull request or go to Issues and post there
 
 ## Creators
 
 - [Andrej Stojkovic](https://github.com/AndrejStojkovic)
-
-## Thanks
-
-Some Text
 
 ## License
 
