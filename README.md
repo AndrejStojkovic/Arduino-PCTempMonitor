@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://github.com/AndrejStojkovic/Arduino-TempControl">
-    <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
+    <img src="https://via.placeholder.com/72" alt="Logo" width=100 height=100>
   </a>
 
-  <h3 align="center">Logo</h3>
+  <h3 align="center">Arduino PC Temperature Monitor</h3>
 
   <p align="center">
     Short description
@@ -22,7 +22,7 @@
 - [Contributing](#contributing)
 - [Creators](#creators)
 - [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
+- [License](#license)
 
 
 ## Quick start
@@ -35,14 +35,14 @@ Some text
 
 ## Status
 
-Here goes all the budgets
+Probably working, idk :p
 
 ## What's included
 
 Some text
 
 ```text
-folder1/
+Arduino-TempControl/
 └── folder2/
     ├── folder3/
     │   ├── file1
@@ -74,8 +74,8 @@ Editor preferences are available in the [editor config](https://reponame/blob/ma
 
 Some Text
 
-## Copyright and license
+## License
 
-Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://github.com/AndrejStojkovic/Arduino-TempControl/blob/master/LICENSE.md).
+Code released under the [MIT License](https://github.com/AndrejStojkovic/Arduino-TempControl/blob/master/LICENSE.md).
 
 Enjoy :metal:
