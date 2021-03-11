@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AndrejStojkovic/Arduino-TempControl">
-    <img src="/misc/ArduinoTempLogo.png" alt="Logo" width=100 height=100>
+    <img src="/misc/ArduinoTempLogo.png" alt="Logo" width=150 height=125>
   </a>
 
   <h3 align="center">Arduino PC Temperature Monitor</h3>
