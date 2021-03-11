@@ -76,6 +76,6 @@ Some Text
 
 ## Copyright and license
 
-Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://github.com/AndrejStojkovic/Arduino-TempControl/blob/master/LICENSE).
+Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://github.com/AndrejStojkovic/Arduino-TempControl/blob/master/LICENSE.md).
 
 Enjoy :metal:
