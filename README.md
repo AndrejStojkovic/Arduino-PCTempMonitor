@@ -17,8 +17,9 @@
 
 - [Quick start](#quick-start)
 - [Status](#status)
-- [Preview](#preview)
 - [What's included](#whats-included)
+- [Preview](#preview)
+- [Schematics](#schematics)
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Contributing](#contributing)
 - [Creators](#creators)
@@ -37,13 +38,6 @@ Some text
 
 Probably working, idk :p
 
-## Preview
-
-Here are some pictures of the project.
-
-<img src="/misc/preview1.jpg" alt="Preview 1">
-<img src="/misc/preview2.jpg" alt="Preview 2">
-
 ## What's included
 
 Some text
@@ -58,6 +52,20 @@ Arduino-PCTempMonitor/
         ├── file3
         └── file4
 ```
+
+## Preview
+
+Here are some pictures of the project.
+
+<img src="/misc/preview1.jpg" alt="Preview 1">
+<img src="/misc/preview2.jpg" alt="Preview 2">
+
+## Schematics
+
+Here are the schematics for the Arduino part.
+
+<img src="/Schematics/Schematics_1.png" alt="Schematic 1">
+<img src="/Schematics/Schematics_2.png" alt="Schematic 2">
 
 ## Bugs and feature requests
 
