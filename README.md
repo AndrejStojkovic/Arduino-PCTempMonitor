@@ -17,6 +17,7 @@
 
 - [Quick start](#quick-start)
 - [Status](#status)
+- [Preview](#preview)
 - [What's included](#whats-included)
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Contributing](#contributing)
@@ -35,6 +36,13 @@ Some text
 ## Status
 
 Probably working, idk :p
+
+## Preview
+
+Here are some pictures of the project.
+
+<img src="/misc/preview1.png" alt="Preview 1">
+<img src="/misc/preview2.png" alt="Preview 2">
 
 ## What's included
 
