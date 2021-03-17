@@ -64,8 +64,8 @@ Here are some pictures of the project.
 
 Here are the schematics for the Arduino part.
 
-<img src="/Schematics/Schematics_1.png" alt="Schematic 1">
-<img src="/Schematics/Schematics_2.png" alt="Schematic 2">
+<img src="/Schematics/Schematic_1.png" alt="Schematic 1">
+<img src="/Schematics/Schematic_2.png" alt="Schematic 2">
 
 ## Bugs and feature requests
 
