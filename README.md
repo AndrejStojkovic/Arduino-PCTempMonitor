@@ -41,8 +41,8 @@ Probably working, idk :p
 
 Here are some pictures of the project.
 
-<img src="/misc/preview1.png" alt="Preview 1">
-<img src="/misc/preview2.png" alt="Preview 2">
+<img src="/misc/preview1.jpg" alt="Preview 1">
+<img src="/misc/preview2.jpg" alt="Preview 2">
 
 ## What's included
 
