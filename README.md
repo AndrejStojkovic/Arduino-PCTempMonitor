@@ -44,7 +44,19 @@ Some text
 
 ```text
 Arduino-PCTempMonitor/
-└── folder2/
+└── Arduino/
+└── Software/
+└── Schematics/
+    └── Schematic_1.fzz
+    └── Schematic_1.png
+    └── Schematic_2.fzz
+    └── Schematic_2.png
+└── misc/
+    └── ArduinoTempLogo.png
+    └── preview1.jpg
+    └── preview2.jpg
+    
+    
     ├── folder3/
     │   ├── file1
     │   └── file2
