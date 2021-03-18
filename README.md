@@ -70,7 +70,11 @@ Arduino-PCTempMonitor/
 
 Here are the schematics for the Arduino part.
 
+Schematic 1:
 <img src="/Schematics/Schematic_1.png" alt="Schematic 1">
+  
+  
+Schematic 1:
 <img src="/Schematics/Schematic_2.png" alt="Schematic 2">
 
 ## Preview
