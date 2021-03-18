@@ -87,6 +87,7 @@ Arduino-PCTempMonitor/
 ## Schematics
 
 Here are the schematics for the Arduino part.
+Schematics were made with Fritzing.
 
 Schematic 1:
 <img src="/Schematics/Schematic_1.png" alt="Schematic 1">
