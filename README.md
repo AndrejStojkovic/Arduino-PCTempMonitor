@@ -46,15 +46,33 @@ Some text
 ```text
 Arduino-PCTempMonitor/
 └── Arduino/
-└── Software/
+    ├── Sketches/
+    │   ├── sketch1.ino
+    │   └── sketch2.ino
+    └── I2Cscan/
+        └── I2Cscan.ino
+└── Software Projects/
+    ├── ConsoleTemp/
+    │   ├── bin/
+    |   |   └── Debug/
+    |   |       └── ConsoleTemp.exe
+    |   |       └── ConsoleTemp.exe.config
+    |   |       └── ConsoleTemp.pdb
+    |   |       └── OpenHardwareMonitorLib.dll
+    │   ├── App.config
+    |   ├── ConsoleTemp.csproj
+    |   ├── ConsoleTemp.sln
+    |   └── app.manifest
+    └── PCTempMonitor/
+        └── empty
 └── Schematics/
-    └── Schematic_1.fzz
-    └── Schematic_1.png
-    └── Schematic_2.fzz
+    ├── Schematic_1.fzz
+    ├── Schematic_1.png
+    ├── Schematic_2.fzz
     └── Schematic_2.png
 └── misc/
-    └── ArduinoTempLogo.png
-    └── preview1.jpg
+    ├── ArduinoTempLogo.png
+    ├── preview1.jpg
     └── preview2.jpg
     
     
