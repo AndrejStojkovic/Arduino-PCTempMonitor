@@ -74,7 +74,7 @@ Schematic 1:
 <img src="/Schematics/Schematic_1.png" alt="Schematic 1">
   
   
-Schematic 1:
+Schematic 2:
 <img src="/Schematics/Schematic_2.png" alt="Schematic 2">
 
 ## Preview
