@@ -18,8 +18,9 @@
 - [Quick start](#quick-start)
 - [Status](#status)
 - [What's included](#whats-included)
-- [Preview](#preview)
 - [Schematics](#schematics)
+- [Preview](#preview)
+- [TO-DO](#to-do)
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Contributing](#contributing)
 - [Creators](#creators)
@@ -65,6 +66,13 @@ Arduino-PCTempMonitor/
         └── file4
 ```
 
+## Schematics
+
+Here are the schematics for the Arduino part.
+
+<img src="/Schematics/Schematic_1.png" alt="Schematic 1">
+<img src="/Schematics/Schematic_2.png" alt="Schematic 2">
+
 ## Preview
 
 Here are some pictures of the project.
@@ -72,12 +80,9 @@ Here are some pictures of the project.
 <img src="/misc/preview1.jpg" alt="Preview 1">
 <img src="/misc/preview2.jpg" alt="Preview 2">
 
-## Schematics
+## TO-DO
 
-Here are the schematics for the Arduino part.
-
-<img src="/Schematics/Schematic_1.png" alt="Schematic 1">
-<img src="/Schematics/Schematic_2.png" alt="Schematic 2">
+- Add 'stop command' to C# program to stop displaying the temperature.
 
 ## Bugs and feature requests
 
