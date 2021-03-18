@@ -70,7 +70,7 @@ Arduino-PCTempMonitor/
 |   ├── Schematic_1.png
 |   ├── Schematic_2.fzz
 |   └── Schematic_2.png
-└── misc/
+├── misc/
     ├── ArduinoTempLogo.png
     ├── preview1.jpg
     └── preview2.jpg
