@@ -87,6 +87,7 @@ Here are some pictures of the project.
 ## TO-DO
 
 - Add 'stop command' to C# program to stop displaying the temperature.
+- Create an UI for the software.
 
 ## Bugs and feature requests
 
