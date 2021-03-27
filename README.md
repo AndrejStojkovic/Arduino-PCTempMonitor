@@ -16,7 +16,6 @@
 ## Table of contents
 
 - [Quick start](#quick-start)
-- [Status](#status)
 - [What's included](#whats-included)
 - [Schematics](#schematics)
 - [Preview](#preview)
@@ -29,19 +28,18 @@
 
 ## Quick start
 
-Some text
+What you will need for this project:
+- Arduino UNO
+- C# with .NET Framework 4.5+
 
-- Instruction 1
-- Instruction 2
-- Instruction 3
+Steps to make this work:
+1. Plug in your Arduino to your PC and set it up according to the schematics.  
+2. Then open the ConsoleTemp project from the Software Projects folder or just open the Debug folder and run the program.
+3. Enter your 'COMx' from the Arduino (you can find this either in Device Manager or the Arduino IDE program) and enter the interval you want the stats to change.
+4. And voila! It should work.
 
-## Status
-
-Probably working, idk :p
 
 ## What's included
-
-Some text
 
 ```text
 Arduino-PCTempMonitor/
