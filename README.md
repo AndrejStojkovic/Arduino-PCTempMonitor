@@ -33,10 +33,13 @@ What you will need for this project:
 - C# with .NET Framework 4.5+
 
 Steps to make this work:
-1. Plug in your Arduino to your PC and set it up according to the schematics.  
-2. Then open the ConsoleTemp project from the Software Projects folder or just open the Debug folder and run the program.
-3. Enter your 'COMx' from the Arduino (you can find this either in Device Manager or the Arduino IDE program) and enter the interval you want the stats to change.
-4. And voila! It should work.
+1. Download the release version from here: https://github.com/AndrejStojkovic/Arduino-PCTempMonitor/releases/tag/1.0 (Arduino-PCTempMonitor.zip)
+2. Extract the files somewhere.
+3. Plug in your Arduino to your PC and set it up according to the schematics.  
+4. Upload the sketch from the sketches folder according to the schematic you followed. (W/o button - first sketch, with button - second sketch)
+5. Then open the ConsoleTemp project from the Software Projects folder or just open the Debug folder and run the program.
+6. Enter your 'COMx' from the Arduino (you can find this either in Device Manager or the Arduino IDE program) and enter the interval you want the stats to change.
+7. And voila! It should work.
 
 
 ## What's included
